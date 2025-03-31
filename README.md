@@ -87,10 +87,16 @@ jupyter notebook Chroma_DB_Demo.ipynb
 ## Example
 
 ```
-Query: What is digital privacy?
+query = "How would you say the narrative changes how people/what people do about an issue?"
 
-Top result:
-"Digital privacy is about control—over your personal information and how it’s used. In a connected world..."
+The narrative can change people's perception and understanding of the issue, potentially leading to different actions or behaviors in response. For example, if the narrative shifts from viewing climate change as a distant threat to a present crisis, individuals may be more motivated to take action and support policies and behaviors that address the issue. Similarly, if the narrative around social media shifts from solely negative effects on mental health to also highlighting responsible usage and digital literacy, individuals may be more mindful of their online behavior and make changes to protect their well-being. 
+
+
+Sources:
+/content/Texts/climate_change_and_its_effects.txt
+/content/Texts/impact_of_social_media.txt
+/content/Texts/climate_change_and_its_effects.txt
+/content/Texts/digital_privacy_in_the_modern_world.txt
 ```
 
 ---
